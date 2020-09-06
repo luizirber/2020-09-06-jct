@@ -1,6 +1,6 @@
 # JCT
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luizirber/2020-09-06-jct/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luizirber/2020-09-06-jct/latest?urlpath=lab/tree/index.ipynb)
 
 ## Setup
 
