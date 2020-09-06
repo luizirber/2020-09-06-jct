@@ -12,3 +12,10 @@ conda env create --force --file environment.yml
 
 conda activate 2020-09-06-jct
 ```
+
+After installing the conda environment,
+you can also use `repo2docker` to create a container with all dependencies,
+just like what is executed in `Binder`.
+```bash
+repo2docker .
+```

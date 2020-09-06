@@ -12,3 +12,4 @@ dependencies:
   - ipywidgets=7.5.1
   - nodejs=14.6.0
   - jupyter-offlinenotebook=0.1
+  - jupyter-repo2docker=0.11.0
